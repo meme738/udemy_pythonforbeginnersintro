@@ -32,5 +32,5 @@ print (repas1[4])
 repas2= 'des coquilletes avec du jambon'
 print (repas2[0:5])
 
-repas3= 'des coquilletes'
-print (repas3[0:15])
+repas3= 'des coquilletes avec du jambon et du beurre'
+print (repas3[0:])
